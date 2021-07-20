@@ -1,0 +1,2 @@
+# ayanamibot
+Is bot Cruaker
